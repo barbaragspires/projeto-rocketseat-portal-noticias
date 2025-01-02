@@ -26,6 +26,9 @@
  --stroke-color: #1E293B;
  --brand-color-light: #1E293B;
  --brand-color-dark: #1D4ED8;
- 
 
-}
+ }
+
+ body a:hover{
+	color: var(--brand-color-dark)
+ }
