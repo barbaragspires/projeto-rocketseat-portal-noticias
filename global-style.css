@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,112.5,100..900;1,112.5,100..900&display=swap');
 
 * {
 	padding: 0;
@@ -7,23 +6,17 @@
 	box-sizing: border-box;
 }
 
-:root {
+ :root {
  --font-family: "Archivo", serif;
  --font-size-1: 24px;
  --font-size-2: 16px;
  --font-size-3: 14px;
  --font-weight-extrabold: 800;
- --font-wight-semibold: 600;
+ --font-weight-semibold: 600;
  --line-height-1: 135%;
  --line-height-2: 140%;
  --line-height-3: 145%;
  --line-height-4: 160%;
-
- --heading1: var(var(--font-weight-extrabold)) var(var(--font-size-1)) var(var(--line-height-1)) var(var(--font-family));
- --heading2: var(var(--font-weight-extrabold)) var(var(--font-size-2)) var(var(--line-height-2)) var(var(--font-family));
- --heading3: var(var(--font-weight-extrabold)) var(var(--font-size-3)) var(var(--line-height-2)) var(var(--font-family));
- --span: var(var(--font-wight-semibold)) var(var(--font-size-3)) var(var(--line-height-3)) var(var(--font-family));
- --paragraph: var(var(--font-size-3)) var(var(--line-height-4)) var(var(--font-family));
 
 
  --text-color-primary: #F1F5F9;
@@ -32,7 +25,7 @@
  --bg-color: #0F172A;
  --stroke-color: #1E293B;
  --brand-color-light: #1E293B;
- --brand-color-dark: #1D4ED8
+ --brand-color-dark: #1D4ED8;
  
 
 }
