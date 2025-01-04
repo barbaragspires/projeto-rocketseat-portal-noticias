@@ -29,6 +29,6 @@
 
  }
 
- body a:hover{
-	color: var(--brand-color-dark)
+ body a:hover {
+	color:#60A5FA;
  }
